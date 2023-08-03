@@ -13,6 +13,7 @@ https://www.python.org/ asegurate de tener instalado una version de python recie
 python --version
 ```
 para verificar en que version te encuentras, de no tenerlo aun en tu sistema por favor sigue las instrucciones de la url.
+Por default en versiones actuales del proceso de instalacion se incluye Pip. Version comprobada: 23.2.1
 
 
 # Paso a paso
