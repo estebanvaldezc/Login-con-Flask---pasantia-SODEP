@@ -2,10 +2,20 @@
 
 Este es un proyecto basico demostrativo de como se podria implementar una arquitectura de 3 capas para un Login utilizando el framework Flask para el desarrollo de una REST API.
 
+La instalacion esta pensada para equipos con sistema operativo WINDOWS 10. 
+
+
+# Informacion previa
+Antes de poder ejecutar el programa debemos tener installado lo siguiente:
+
+https://www.python.org/ asegurate de tener instalado una version de python reciente, 3.8 en adelante. Puedes utilizar el comando:
+```bash
+python --version
+```
+para verificar en que version te encuentras, de no tenerlo aun en tu sistema por favor sigue las instrucciones de la url.
+
 
 # Paso a paso
-Antes de poder ejecutar el programa debemos tener installado lo siguiente 
-https://www.python.org/ asegurate de tener instalado una version de python reciente 
 
 1. Abrir command prompt o terminal en la carpeta raiz donde tenga guardado ambos archivos .py o dirigirse hasta ahi a traves del comando cd 
 2. Procedemos a instalar virtualEnv de la siguiente manera
